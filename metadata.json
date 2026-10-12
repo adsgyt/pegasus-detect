@@ -1,0 +1,6 @@
+{
+  "name": "MobileForensics APK Studio",
+  "description": "Mobile forensic audit suite, APK security analyzer, hardware inspection engine, and Android APK project builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
